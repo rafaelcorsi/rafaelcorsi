@@ -1,6 +1,6 @@
 ### Aboutme 👋
 
-Professor of computer engineering at Insper, working with digital systems (FPGA, microcontrollers, Embedded Linux).
+Professor of computer engineering at Insper, working with digital systems (FPGA, microcontrollers, Embedded Linux). Current courses:
 
 - [The Elements of Computer System](https://insper.github.io/Z01.1/)
 - [Embedded systems](https://insper.github.io/ComputacaoEmbarcada/)
