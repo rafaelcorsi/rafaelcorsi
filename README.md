@@ -1,4 +1,14 @@
-### Hi there 👋
+### Aboutme 👋
+
+Professor of computer engineering at Insper, working with digital systems (FPGA, microcontrollers, Embedded Linux).
+
+- [The Elements of Computer System](https://insper.github.io/Z01.1/)
+- [Embedded systems](https://insper.github.io/ComputacaoEmbarcada/)
+- [SoC and Embedded Linux](https://insper.github.io/Embarcados-Avancados/)
+
+Initializing the development of tools to assist in active and student-centered teaching.
+
+- http://github.com/insper-education/
 
 <!--
 **rafaelcorsi/rafaelcorsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
