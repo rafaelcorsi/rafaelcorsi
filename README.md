@@ -13,8 +13,15 @@ I am a faculty member at [Insper](https://insper.edu.br) where I teach digital s
 
 I also work on developing new tools and ideas to assist faculty in implementing student-centered classes. Some of these tools can be found in the Insper Education GitHub organization at https://github.com/insper-education/. This is also the theme of my PhD at the Instituto de Computação of Unicamp supervised by [Rodolfo Azevedo](https://www.ic.unicamp.br/~rodolfo/).
 
-## Publications
+## On go research
 
+1. There is a research project between Insper and UIUC involving me, Igor from Insper, and Mariana and Craig from UIUC. The project focuses on adapting immediate feedback and frequent testing to project-based courses and oen-ended projects.
+
+1. Writing a paper to the FIE 2023 with the title: *Moving Beyond VHDL in Introductory Computer Architecture Courses: An Exploration of MyHDL as a Modern Alternative*
+
+1. Developing a web tool to assist faculty in analyzing the Git logs of students in GitHub Classroom.
+
+## Publications
 
 ### Education:
 
