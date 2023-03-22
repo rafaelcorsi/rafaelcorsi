@@ -25,15 +25,15 @@ It is current in use by several courses at Insper and is an enfort of [toshikura
     - The first idea we will try is to incorporate continuous feedback into our weekly activities and measure its impact on our projects.
     - I am currently analyzing (git logs, github issues and student interactions, static analysis, questionnaire) of the two past semesters to identify the most common errors. Based on this analysis, I am thinking about how to implement interventions in 2023-2
     
-1. Writing a paper to the FIE 2023
+1. Writing a paper to the FIE 2023 about the impact of HDL languages in introductory computer architecture courses.
 
-1. Developing a web tool to assist faculty in analyzing the Git logs of students in GitHub Classroom.
+3. Developing a web tool to assist faculty in analyzing the Git logs of students in GitHub Classroom.
 
 ## Publications
 
 ### Education:
 
-Im current focus on this theme now.
+Im current focus on this area now.
 
 ```
 FERRAO, RAFAEL CORSI; DOS SANTOS MONTAGNER, IGOR ; CACEFFO, RICARDO ; AZEVEDO, RODOLFO. 
@@ -60,7 +60,7 @@ Proceedings of the 9th International Symposium on Project Approaches in Engineer
 
 ### Miscellaneous (technical)
 
-Most from the time that I worked at the NSEE lab at [Maua](https://maua.br)
+Most from the time that I worked at the NSEE laboratory at [Maua](https://maua.br) were I was developing an [EGSE for the ESA Plato](https://plato-project.iaa.es/node/17) project and working with aerospace electronics systems.
 
 ```
 FERRÃO, R. C.; AUGUSTO, SERGIO RIBEIRO ; SILVA, TIAGO SANCHES DA ; PARRO, V. C. . 
@@ -94,9 +94,3 @@ An VHDL implementation. In: Workshop Anual Sobre os Efeitos das Radiações Ioni
 FERRÃO, R. C.; PARRO, V. C. ; Sanches da Silva, TIAGO ; AUGUSTO, S. R. ; Philippe Plasson ; Loic Gueguen . 
 CAMERA SIMULATOR FOR PLATO MISSION. In: International Spacewire Conference 2011, 2011, San Antonio. Pro
 ```
-
-
-
-
-
-
