@@ -10,24 +10,11 @@ I am a faculty member at [Insper](https://insper.edu.br) where I teach digital s
 - [The Elements of Computer System](https://insper.github.io/Z01.1/) 
 - [Embedded systems](https://insper.github.io/ComputacaoEmbarcada/)
 - [SoC and Embedded Linux](https://insper.github.io/Embarcados-Avancados/)
-
-I also work on developing new tools and ideas to assist faculty in implementing student-centered classes. Some of these tools can be found in the Insper Education GitHub organization at https://github.com/insper-education/. This is also the theme of my PhD at the Instituto de Computação of Unicamp supervised by [Rodolfo Azevedo](https://www.ic.unicamp.br/~rodolfo/).
-
-⭐ You must see this tool that allows faculty to publish course material with and get telemetry from it:
-
-- https://insper-education.github.io/active-handout/
   
-It is current in use by several courses at Insper and is an enfort of [toshikurauchi](https://github.com/toshikurauchi) and [igordsm](https://github.com/igordsm).
-
 ## On go research
 
-1. There is a research project between Insper and UIUC involving me, Igor from Insper, and Mariana and Craig from UIUC. The project focuses on adapting immediate feedback and frequent testing to project-based courses and open-ended projects.
-    - The first idea we will try is to incorporate continuous feedback into our weekly activities and measure its impact on our projects.
-    - I am currently analyzing (git logs, github issues and student interactions, static analysis, questionnaire) of the two past semesters to identify the most common errors. Based on this analysis, I am thinking about how to implement interventions in 2023-2
-    
-1. Writing a paper to the FIE 2023 about the impact of HDL languages in introductory computer architecture courses.
+...
 
-3. Developing a web tool to assist faculty in analyzing the Git logs of students in GitHub Classroom.
 
 ## Publications
 
@@ -35,17 +22,23 @@ It is current in use by several courses at Insper and is an enfort of [toshikura
 
 Im current focus on this area now.
 
+1. **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, Renan Trevisoli:  
+   _"Moving Beyond VHDL in Introductory Computer Architecture Courses"_, IEEE FIE 2023, Texas.
 
-- FERRAO, RAFAEL CORSI; DOS SANTOS MONTAGNER, IGOR ; CACEFFO, RICARDO ; AZEVEDO, RODOLFO. How much C can students learn in one week? Experiences teaching C in advanced CS courses. In: 2022 IEEE Frontiers in Education Conference (FIE), 2022, Uppsala. 2022 IEEE Frontiers in Education Conference (FIE), 2022. p. 1.
+2. **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, Ricardo Caceffo, Rodolfo Azevedo:  
+   _"How much C can students learn in one week?"_, IEEE FIE 2022, Uppsala.
 
-- MONTAGNER, I. ; FERRAO, R. C. ; MAROSSI, E. ; AYRES, F. J. . Teaching C programming in context: a joint effort between the Computer Systems, Embedded Computing and Programming Challenges courses. In: IEEE Frontiers in Education Conference (FIE), 2019. IEEE Frontiers in Education Conference, 2019.
+3. Igor Dos Santos Montagner, **Rafael Corsi Ferrão**, E. Marossi, F. J. Ayres:  
+   _"Teaching C programming in context"_, IEEE FIE 2019.
 
-- AYRES, F. J. ; FERRÃO, RAFAEL CORSI ; MIRANDA, F. R. . Physical Layer of Computing: a contextualized view of Electrical Engineering for Computer Engineers. In: 9th International Symposium on Project Approaches in Engineering Education, 2018, Brasília. Proceedings of the 9th International Symposium on Project Approaches in Engineering Education, 2018.
+4. F. J. Ayres, **Rafael Corsi Ferrão**, F. R. Miranda:  
+   _"Physical Layer of Computing"_, 9th International Symposium on Project Approaches in Engineering Education, 2018, Brasília.
 
-- FERRAO, RAFAEL CORSI; MIRANDA, F. R. . Insper's Approach to Embedded Computing Discipline. In: 9th International Symposium on Project Approaches in Engineering Education, 2018, Brasília. Proceedings of the 9th International Symposium on Project Approaches in Engineering Education, 2018.
+5. **Rafael Corsi Ferrão**, F. R. Miranda:  
+   _"Insper's Approach to Embedded Computing Discipline"_, 9th International Symposium, 2018, Brasília.
 
-- SOARES, L. P. ; FERRÃO, RAFAEL CORSI . Continuous Integrated Team Learning. In: 9th International Symposium on Project Approaches in Engineering Education, 2018, Brasília. Proceedings of the 9th International Symposium on Project Approaches in Engineering Education, 2018.
-
+6. L. P. Soares, **Rafael Corsi Ferrão**:  
+   _"Continuous Integrated Team Learning"_, 9th International Symposium, 2018, Brasília.
 
 ### Miscellaneous (technical)
 
