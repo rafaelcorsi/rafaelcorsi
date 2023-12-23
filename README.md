@@ -13,32 +13,27 @@ I am a faculty member at [Insper](https://insper.edu.br) where I teach digital s
   
 ## On go research
 
-...
-
+- Second chance: how students behave in different second chance scenarios with pass/fail assessment
+- Code quality: Creation of a dedicated static analysis tool for embedded systems
+- How students behave regarding continuous feedback on code quality
+- How to provide continuous feedback in open projects
+- Restructuring an embedded systems course using micro-specialization
 
 ## Publications
 
-### Education:
+### Education
 
-Im current focus on this area now.
+- **SIGCSE 2024** - Adapting immediate feedback and frequent testing to project-based courses
+    > Igor Dos Santos Montagner, **Rafael Corsi Ferrão**, Andrew Toshi, Mariana Silva, Craig Zilles
 
-1. **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, Renan Trevisoli:  
-   _"Moving Beyond VHDL in Introductory Computer Architecture Courses"_, IEEE FIE 2023, Texas.
+-  **FIE 2023, Texas** - Moving Beyond VHDL in Introductory Computer Architecture Courses
+    > **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, Renan Trevisoli
 
-2. **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, Ricardo Caceffo, Rodolfo Azevedo:  
-   _"How much C can students learn in one week?"_, IEEE FIE 2022, Uppsala.
+-  **FIE 2022, Uppsala** - How much C can students learn in one week?
+   > **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, Ricardo Caceffo, Rodolfo Azevedo
 
-3. Igor Dos Santos Montagner, **Rafael Corsi Ferrão**, E. Marossi, F. J. Ayres:  
-   _"Teaching C programming in context"_, IEEE FIE 2019.
-
-4. F. J. Ayres, **Rafael Corsi Ferrão**, F. R. Miranda:  
-   _"Physical Layer of Computing"_, 9th International Symposium on Project Approaches in Engineering Education, 2018, Brasília.
-
-5. **Rafael Corsi Ferrão**, F. R. Miranda:  
-   _"Insper's Approach to Embedded Computing Discipline"_, 9th International Symposium, 2018, Brasília.
-
-6. L. P. Soares, **Rafael Corsi Ferrão**:  
-   _"Continuous Integrated Team Learning"_, 9th International Symposium, 2018, Brasília.
+- **FIE 2019** - Teaching C programming in context
+    > Igor Dos Santos Montagner, **Rafael Corsi Ferrão**, E. Marossi, F. J. Ayres
 
 ### Miscellaneous (technical)
 
