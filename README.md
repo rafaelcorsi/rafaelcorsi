@@ -1,27 +1,39 @@
 ### Aboutme 👋
 
 - Faculty @ Insper (2016 - ...)
-- Visiting scholar @ UIUC (2023)
 - PhD in progress @ Unicamp/IC (2022 - ...)
+- Visiting scholar @ UIUC (2023-1)
 
-I am a faculty member at [Insper](https://insper.edu.br) where I teach digital systems to undergraduate students in computer engineering and computer science. This includes instruction on topics such as Field Programmable Gate Arrays (FPGAs), microcontrollers, and Embedded Linux:
+I am a faculty member at [Insper](https://insper.edu.br) where I teach digital systems to undergraduate students in computer engineering and computer science. This includes instruction on topics such as FPGAs, microcontrollers, and Embedded Linux:
 
 - [Bits and Processors](https://insper.github.io/bits-e-proc/) 
-- [The Elements of Computer System](https://insper.github.io/Z01.1/) 
 - [Embedded systems](https://insper.github.io/ComputacaoEmbarcada/)
 - [SoC and Embedded Linux](https://insper.github.io/Embarcados-Avancados/)
   
 ## On go research
 
-- Second chance: how students behave in different second chance scenarios with pass/fail assessment
-- Code quality: Creation of a dedicated static analysis tool for embedded systems
-- How students behave regarding continuous feedback on code quality
-- How to provide continuous feedback in open projects
-- Restructuring an embedded systems course using micro-specialization
+My current research focuses on the area of CsED. We are collaborating on a project with the University of Illinois Urbana-Champaign [UIUC-INSPER](https://cs.illinois.edu/research/insper), which includes members:
+
+- UIUC: Craig Zilles and Mariana Silva
+- Insper: Igor Montagner and Rafael Corsi
+
+The objectives of our project are:
+
+- To apply existing research on immediate feedback and frequent testing within the Insper educational context.
+- To develop innovative adaptations of these strategies for project-based courses.
+
+My contributions are specifically aimed at:
+
+- **Second Chance:** Investigating student behavior in various scenarios involving second chances with a pass/fail assessment system.
+- **Code Quality:** Developing a specialized static analysis tool tailored for embedded systems.
+- **Continuous Feedback on Code Quality:** Examining how students respond to ongoing feedback regarding code quality.
+- **Continuous Feedback in Open Projects:** Exploring methods to provide continuous feedback in the context of open-ended projects.
+- **Course Restructuring:** Revising the structure of an embedded systems course to incorporate micro-specializations.
 
 ## Publications
 
-### Education
+- **ITCSE 2024** (Accepted) - Embedded-Check: A Code Quality Tool for Automatic Firmware Verification
+    >  **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, Mariana Silva, Craig Zilles, Rodolfo Azevedo
 
 - **SIGCSE 2024** - Adapting immediate feedback and frequent testing to project-based courses
     > Igor Dos Santos Montagner, **Rafael Corsi Ferrão**, Andrew Toshi, Mariana Silva, Craig Zilles
