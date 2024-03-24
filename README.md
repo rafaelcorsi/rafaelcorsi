@@ -10,7 +10,7 @@ I am a faculty member at [Insper](https://insper.edu.br) where I teach digital s
 - [Embedded systems](https://insper.github.io/ComputacaoEmbarcada/)
 - [SoC and Embedded Linux](https://insper.github.io/Embarcados-Avancados/)
   
-## On go research
+## On going research
 
 My current research focuses on the area of CsED. We are collaborating on a project with the University of Illinois Urbana-Champaign [UIUC-INSPER](https://cs.illinois.edu/research/insper), which includes members:
 
