@@ -32,7 +32,7 @@ My contributions are specifically aimed at:
 
 ## Publications
 
-- **ITCSE 2024** (Accepted) - Embedded-Check: A Code Quality Tool for Automatic Firmware Verification
+- **ITiCSE 2024** (Accepted) - Embedded-Check: A Code Quality Tool for Automatic Firmware Verification
     >  **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, Mariana Silva, Craig Zilles, Rodolfo Azevedo
 
 - **SIGCSE 2024** - Adapting immediate feedback and frequent testing to project-based courses
