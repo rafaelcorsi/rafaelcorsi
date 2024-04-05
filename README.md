@@ -73,6 +73,8 @@ Most from the time that I worked at the NSEE laboratory at [Maua](https://maua.b
 - **IV WORKSHOP SOBRE OS EFEITOS DA RADIAÇÃO EM COMPONENTES FOTÔNICOS E ELETRÔNICOS DE USO AEROESPACIAL, 2012, São José Dos Campos** - RMAP - Remote Memory Access Protocol A Codec implementation
     > **Rafael Corsi Ferrão**, Tiago Sanches da Silva, Sergio Ribeiro Augusto, V. C. Parro
 
-- NABARRETE, J. ; FERRÃO, R. C. ; PARRO, V. C. ; AUGUSTO, S. R. . The SpaceWire communication standard for space applications: An VHDL implementation. In: Workshop Anual Sobre os Efeitos das Radiações Ionizantes em Componentes Eletrônicos e Fotônicos de Uso Aeroespacial, 2012, São José Dos Campos. ANAIS WERICE AEROESPACIAL, 2012. v. 1.
+- **Workshop Anual Sobre os Efeitos das Radiações Ionizantes em Componentes Eletrônicos e Fotônicos de Uso Aeroespacial, 2012, São José Dos Campos** - The SpaceWire communication standard for space applications: An VHDL implementation
+    > J. Nabarrete, **Rafael Corsi Ferrão**, V. C. Parro, Sergio Ribeiro Augusto
 
-- FERRÃO, R. C.; PARRO, V. C. ; Sanches da Silva, TIAGO ; AUGUSTO, S. R. ; Philippe Plasson ; Loic Gueguen. CAMERA SIMULATOR FOR PLATO MISSION. In: International Spacewire Conference 2011, 2011, San Antonio. Pro
+- **International Spacewire Conference 2011, San Antonio** - CAMERA SIMULATOR FOR PLATO MISSION
+    > **Rafael Corsi Ferrão**, V. C. Parro, Tiago Sanches da Silva, Sergio Ribeiro Augusto, Philippe Plasson, Loic Gueguen
