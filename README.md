@@ -32,6 +32,10 @@ My contributions are specifically aimed at:
 
 ## Publications
 
+### CsEd
+
+> (current research area)
+
 - **ITiCSE 2024** (Accepted) - Embedded-Check: A Code Quality Tool for Automatic Firmware Verification
     >  **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, Mariana Silva, Craig Zilles, Rodolfo Azevedo
 
@@ -47,21 +51,27 @@ My contributions are specifically aimed at:
 - **FIE 2019** - Teaching C programming in context
     > Igor Dos Santos Montagner, **Rafael Corsi Ferrão**, E. Marossi, F. J. Ayres
 
-### Miscellaneous (technical)
+## Miscellaneous (technical)
 
 Most from the time that I worked at the NSEE laboratory at [Maua](https://maua.br) were I was developing an [EGSE for the ESA Plato](https://plato-project.iaa.es/node/17) project and working with aerospace electronics systems.
 
-- FERRÃO, R. C.; AUGUSTO, SERGIO RIBEIRO ; SILVA, TIAGO SANCHES DA ; PARRO, V. C. .  Electronic simulator of the PLATO satellite imaging system. Journal of Aerospace Technology and Management (Online), v. 4, p. 489-494, 2012. 
+- **Journal of Aerospace Technology and Management (Online), 2012** - Electronic simulator of the PLATO satellite imaging system
+    > **Rafael Corsi Ferrão**, Sergio Ribeiro Augusto, Tiago Sanches da Silva, V. C. Parro
 
-- PARRO, V. C. ; MARTINS, F. A. ; FERRAO, R. C. ; AUGUSTO, S. R. ; PINHEIRO DA SILVA, L. .  Data processing unit using COTS micro-controllers working in redundancy. In: 2017 IEEE Aerospace Conference, 2017, Big Sky. 2017 IEEE Aerospace Conference, 2017. p. 1. 
+- **2017 IEEE Aerospace Conference, Big Sky** - Data processing unit using COTS micro-controllers working in redundancy
+    > V. C. Parro, F. A. Martins, **Rafael Corsi Ferrão**, Sergio Ribeiro Augusto, L. Pinheiro da Silva
 
-- FERRAO, RAFAEL CORSI; AUGUSTO, SERGIO RIBEIRO ; BERNI, CASSIO ; FERREIRA DOS SANTOS, FRANKLIN RONALD ; PARRO, VANDERLEI CUNHA ; PLASSON, PHILIPPE ; GUEGUEN, LOIC ; FINCO, SAULO ; PETER, GISBERT ; STELLER, MANFRED. Multi-purpose simulator for Plato mission: SpaceWire mission and applications, short paper. In: 2016 International SpaceWire Conference (SpaceWire), 2016, Yokohama. 2016 International SpaceWire Conference (SpaceWire), 2016. p. 1.
+- **2016 International SpaceWire Conference, Yokohama** - Multi-purpose simulator for Plato mission: SpaceWire mission and applications, short paper
+    > **Rafael Corsi Ferrão**, Sergio Ribeiro Augusto, Cassio Berni, Franklin Ronald Ferreira dos Santos, Vanderlei Cunha Parro, Philippe Plasson, Loic Gueguen, Saulo Finco, Gisbert Peter, Manfred Steller
 
-- ROMANO, RODRIGO ALVITE ; PAIT, FELIPE ; FERRAO, RAFAEL CORSI . Matchable-observable linear models for multivariable identification: Structure selection  and experimental results. In: 2015 54th IEEE Conference on Decision and Control (CDC), 2015, Osaka. 2015 54th IEEE Conference on Decision and Control (CDC). p. 3391.
+- **2015 54th IEEE Conference on Decision and Control (CDC), Osaka** - Matchable-observable linear models for multivariable identification: Structure selection and experimental results
+    > Rodrigo Alvite Romano, Felipe Pait, **Rafael Corsi Ferrão**
 
-- FERRÃO, RAFAEL CORSI; CRUZ, J. J. . ACTIVE MAGNETIC BEARING PROJECT FOR A SATELLITE REACTION WHEEL. In: 23rd ABCM International Congress of Mechanical Engineering - COBEM 2015, 2015, Rio de Janeiro. ABCM International Congress of Mechanical Engineering, 2015.
+- **23rd ABCM International Congress of Mechanical Engineering - COBEM 2015, Rio de Janeiro** - ACTIVE MAGNETIC BEARING PROJECT FOR A SATELLITE REACTION WHEEL
+    > **Rafael Corsi Ferrão**, J. J. Cruz
 
-- FERRÃO, R. C.; Sanches da Silva, TIAGO ; AUGUSTO, S. R. ; PARRO, V. C. . RMAP - Remote Memory Access Protocol A Codec implementation. In: IV WORKSHOP SOBRE OS EFEITOS DA RADIAÇÃO EM COMPONENTES FOTÔNICOS E ELETRÔNICOS DE USO AEROESPACIAL, 2012, São José Dos Campos. ANAIS WERICE AEROESPACIAL, 2012. v. 1.
+- **IV WORKSHOP SOBRE OS EFEITOS DA RADIAÇÃO EM COMPONENTES FOTÔNICOS E ELETRÔNICOS DE USO AEROESPACIAL, 2012, São José Dos Campos** - RMAP - Remote Memory Access Protocol A Codec implementation
+    > **Rafael Corsi Ferrão**, Tiago Sanches da Silva, Sergio Ribeiro Augusto, V. C. Parro
 
 - NABARRETE, J. ; FERRÃO, R. C. ; PARRO, V. C. ; AUGUSTO, S. R. . The SpaceWire communication standard for space applications: An VHDL implementation. In: Workshop Anual Sobre os Efeitos das Radiações Ionizantes em Componentes Eletrônicos e Fotônicos de Uso Aeroespacial, 2012, São José Dos Campos. ANAIS WERICE AEROESPACIAL, 2012. v. 1.
 
