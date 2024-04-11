@@ -1,7 +1,7 @@
 ### Aboutme 👋
 
 - Faculty @ Insper (2016 - ...)
-- PhD in progress @ Unicamp/IC (2022 - ...)
+- PhD in progress @ Unicamp/IC (2022 - ...) Under the supervision of [Prof. Rodolfo Azevedo](https://www.ic.unicamp.br/~rodolfo/).
 - Visiting scholar @ UIUC (2023-1)
 
 I am a faculty member at [Insper](https://insper.edu.br) where I teach digital systems to undergraduate students in computer engineering and computer science. This includes instruction on topics such as FPGAs, microcontrollers, and Embedded Linux:
