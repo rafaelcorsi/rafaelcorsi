@@ -36,10 +36,15 @@ My contributions are specifically aimed at:
 
 > (current research area)
 
-- **ITiCSE 2024** (Accepted) - Embedded-Check: A Code Quality Tool for Automatic Firmware Verification
+- 🌟 **ITiCSE 2024** (Accepted) - Embedded-Check: A Code Quality Tool for Automatic Firmware Verification
     >  **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, Mariana Silva, Craig Zilles, Rodolfo Azevedo
 
-- **SIGCSE 2024** - Adapting immediate feedback and frequent testing to project-based courses
+- **ITiCSE 2024** (Accepted) - Learn by example in a modern embedded system course
+    > Tips Techniques and Courseware
+    > 
+    >  **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, MRodolfo Azevedo
+
+- 🌟 **SIGCSE 2024** - Adapting immediate feedback and frequent testing to project-based courses
     > Igor Dos Santos Montagner, **Rafael Corsi Ferrão**, Andrew Toshi, Mariana Silva, Craig Zilles
 
 -  **FIE 2023, Texas** - Moving Beyond VHDL in Introductory Computer Architecture Courses
