@@ -81,5 +81,5 @@ Most from the time that I worked at the NSEE laboratory at [Maua](https://maua.b
 - **2012 Workshop Anual Sobre os Efeitos das Radiações Ionizantes em Componentes Eletrônicos e Fotônicos de Uso Aeroespacial, São José Dos Campos** - The SpaceWire communication standard for space applications: An VHDL implementation
     > J. Nabarrete, **Rafael Corsi Ferrão**, V. C. Parro, Sergio Ribeiro Augusto
 
-- **International Spacewire Conference 2011, San Antonio** - CAMERA SIMULATOR FOR PLATO MISSION
+- **2011 International Spacewire Conference, San Antonio** - CAMERA SIMULATOR FOR PLATO MISSION
     > **Rafael Corsi Ferrão**, V. C. Parro, Tiago Sanches da Silva, Sergio Ribeiro Augusto, Philippe Plasson, Loic Gueguen
