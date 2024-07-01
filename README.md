@@ -48,7 +48,8 @@ My contributions are specifically aimed at:
     > Igor Dos Santos Montagner, **Rafael Corsi Ferrão**, Andrew Toshi, Mariana Silva, Craig Zilles
 
 - **EduLearn 2024** - (Abstract) Helping students to start a project
-    >**Rafael Corsi Ferrão**, Mariana Silva, Rodolfo Azevedo
+    > **Rafael Corsi Ferrão**, Mariana Silva, Rodolfo Azevedo
+    > 
     > [Link to presentation slides](https://github.com/rafaelcorsi/paper-data/blob/main/24a-edulearn-palma-rafael-ferrao.pdf)
 
 -  **FIE 2023, Texas** - Moving Beyond VHDL in Introductory Computer Architecture Courses
