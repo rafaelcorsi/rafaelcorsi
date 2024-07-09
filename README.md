@@ -36,13 +36,15 @@ My contributions are specifically aimed at:
 
 > (current research area)
 
-- 🌟 **ITiCSE 2024** (Accepted) - Embedded-Check: A Code Quality Tool for Automatic Firmware Verification
+- 🌟 **ITiCSE 2024** - Embedded-Check: A Code Quality Tool for Automatic Firmware Verification
     >  **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, Mariana Silva, Craig Zilles, Rodolfo Azevedo
+    >
+    > [Paper](https://dl-acm-org.proxy2.library.illinois.edu/doi/10.1145/3649217.3653577) / [Slides](https://raw.githubusercontent.com/rafaelcorsi/paper-data/main/24a-iticse-embedded-check-presentation.pdf)
 
-- **ITiCSE 2024** (Accepted) - Learn by example in a modern embedded system course
-    > Tips Techniques and Courseware
+- **ITiCSE 2024** - Learn by example in a modern embedded system course (Tips Techniques and Courseware)
+    >  **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, Rodolfo Azevedo
     > 
-    >  **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, MRodolfo Azevedo
+    > [Paper](https://dl.acm.org/doi/10.1145/3649405.3659522) / [Slides](https://raw.githubusercontent.com/rafaelcorsi/paper-data/main/24a-iticse-tips-presentation.pdf)
 
 - 🌟 **SIGCSE 2024** - Adapting immediate feedback and frequent testing to project-based courses
     > Igor Dos Santos Montagner, **Rafael Corsi Ferrão**, Andrew Toshi, Mariana Silva, Craig Zilles
@@ -50,7 +52,7 @@ My contributions are specifically aimed at:
 - **EduLearn 2024** - (Abstract) Helping students to start a project
     > **Rafael Corsi Ferrão**, Mariana Silva, Rodolfo Azevedo
     > 
-    > [Link to presentation slides](https://github.com/rafaelcorsi/paper-data/blob/main/24a-edulearn-palma-rafael-ferrao.pdf)
+    > [Slides](https://raw.githubusercontent.com/rafaelcorsi/paper-data/main/24a-edulearn-palma-rafael-ferrao.pdf)
 
 -  **FIE 2023, Texas** - Moving Beyond VHDL in Introductory Computer Architecture Courses
     > **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, Renan Trevisoli
