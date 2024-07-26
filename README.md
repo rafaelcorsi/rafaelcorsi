@@ -44,6 +44,8 @@ My contributions are specifically aimed at:
 - **2024 EduLearn, Palma** - (Abstract) Helping students to start a project ( [Slides](https://raw.githubusercontent.com/rafaelcorsi/paper-data/main/24a-edulearn-palma-rafael-ferrao.pdf) )
     > **Rafael Corsi Ferrão**, Mariana Silva, Rodolfo Azevedo
 
+- **2024 FIE, Washington DC** - (Accpeted) Cost-Effective Clusters in Education: A Model for Practical HPC Learning
+
 - **2024 ITSC, Edmonton** - (Accepted) Machine Learning Models for Intrusion Detection in Unmanned Aerial Vehicles: An Approach to Cybersecurity and Operational Safety
     > Tiago Demay, **Rafael Corsi**, Paulo Sérgio Cugnasca
   
