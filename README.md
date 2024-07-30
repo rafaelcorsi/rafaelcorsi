@@ -33,31 +33,17 @@ My contributions are specifically aimed at:
 ## Publications
 
 - **2024 ITiCSE, Milan** - Embedded-Check: A Code Quality Tool for Automatic Firmware Verification ( [Paper](https://dl-acm-org.proxy2.library.illinois.edu/doi/10.1145/3649217.3653577) / [Slides](https://raw.githubusercontent.com/rafaelcorsi/paper-data/main/24a-iticse-embedded-check-presentation.pdf) )
-    >  **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, Mariana Silva, Craig Zilles, Rodolfo Azevedo
-
 - **2024 ITiCSE, Milan** - (Abstract) Learn by example in a modern embedded system course (  [Paper](https://dl.acm.org/doi/10.1145/3649405.3659522) / [Slides](https://raw.githubusercontent.com/rafaelcorsi/paper-data/main/24a-iticse-tips-presentation.pdf) )
-    >  **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, Rodolfo Azevedo
-
 - **2024 SIGCSE, Portland** - Adapting immediate feedback and frequent testing to project-based courses
-    > Igor Dos Santos Montagner, **Rafael Corsi Ferrão**, Andrew Toshi, Mariana Silva, Craig Zilles
-
 - **2024 EduLearn, Palma** - (Abstract) Helping students to start a project ( [Slides](https://raw.githubusercontent.com/rafaelcorsi/paper-data/main/24a-edulearn-palma-rafael-ferrao.pdf) )
-    > **Rafael Corsi Ferrão**, Mariana Silva, Rodolfo Azevedo
-
 - **2024 FIE, Washington DC** - (Accpeted) Cost-Effective Clusters in Education: A Model for Practical HPC Learning
-
 - **2024 ITSC, Edmonton** - (Accepted) Machine Learning Models for Intrusion Detection in Unmanned Aerial Vehicles: An Approach to Cybersecurity and Operational Safety
-    > Tiago Demay, **Rafael Corsi**, Paulo Sérgio Cugnasca
-  
--  **2023 FIE, Texas** - Moving Beyond VHDL in Introductory Computer Architecture Courses
-    > **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, Renan Trevisoli
-
--  **FIE 2022, Uppsala** - How much C can students learn in one week?
-   > **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, Ricardo Caceffo, Rodolfo Azevedo
-
+- **2024 SIGCSE Virtual** -  (Abstract) (Accpeted) LLM-based Individual Contribution Summarization in Software Projects
+- **2024 SIGCSE Virtual** -  (Abstract) (Accpeted) Micro-Specialization As Solution To Open-Ended Project
+- **2023 FIE, Texas** - Moving Beyond VHDL in Introductory Computer Architecture Courses
+- **FIE 2022, Uppsala** - How much C can students learn in one week?
 - **FIE 2019** - Teaching C programming in context
-    > Igor Dos Santos Montagner, **Rafael Corsi Ferrão**, E. Marossi, F. J. Ayres
-
+ 
 ## Miscellaneous (technical)
 
 Most from the time that I worked at the NSEE laboratory at [Maua](https://maua.br) were I was developing an [EGSE for the ESA Plato](https://plato-project.iaa.es/node/17) project and working with aerospace electronics systems.
