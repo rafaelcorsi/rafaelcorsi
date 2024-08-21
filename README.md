@@ -6,8 +6,8 @@
 
 I am a faculty member at [Insper](https://insper.edu.br) where I teach digital systems to undergraduate students in computer engineering and computer science. This includes instruction on topics such as FPGAs, microcontrollers, and Embedded Linux:
 
+- [Embedded systems](https://insper-embarcados.github.io/site/)
 - [Bits and Processors](https://insper.github.io/bits-e-proc/) 
-- [Embedded systems](https://insper.github.io/ComputacaoEmbarcada/)
 - [SoC and Embedded Linux](https://insper.github.io/Embarcados-Avancados/)
   
 ## On going research
@@ -32,6 +32,8 @@ My contributions are specifically aimed at:
 
 ## Publications
 
+### Insper
+
 - **2024 SIGCSE Virtual** - (Abstract) (Accpeted) LLM-based Individual Contribution Summarization in Software Projects
   
 - **2024 SIGCSE Virtual** -  (Abstract) (Accpeted) Micro-Specialization As Solution To Open-Ended Project
@@ -44,10 +46,10 @@ My contributions are specifically aimed at:
 - **2024 ITiCSE, Milan** - Embedded-Check: A Code Quality Tool for Automatic Firmware Verification ( [Paper](https://dl-acm-org.proxy2.library.illinois.edu/doi/10.1145/3649217.3653577) / [Slides](https://raw.githubusercontent.com/rafaelcorsi/paper-data/main/24a-iticse-embedded-check-presentation.pdf) )
     >  **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, Mariana Silva, Craig Zilles, Rodolfo Azevedo
 
-- **2024 ITiCSE, Milan** - (Abstract) Learn by example in a modern embedded system course (  [Paper](https://dl.acm.org/doi/10.1145/3649405.3659522) / [Slides](https://raw.githubusercontent.com/rafaelcorsi/paper-data/main/24a-iticse-tips-presentation.pdf) )
+- **2024 ITiCSE, Milan** - (Abstract) Learn by example in a modern embedded system course ( [Paper](https://dl.acm.org/doi/10.1145/3649405.3659522) / [Slides](https://raw.githubusercontent.com/rafaelcorsi/paper-data/main/24a-iticse-tips-presentation.pdf) )
     >  **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, Rodolfo Azevedo
 
-- **2024 SIGCSE, Portland** - Adapting immediate feedback and frequent testing to project-based courses
+- **2024 SIGCSE, Portland** - Adapting immediate feedback and frequent testing to project-based courses ( [Paper](https://dl.acm.org/doi/abs/10.1145/3626252.3630841) / [Slides](https://igordsm.github.io/paper-no-sigcse-2024/) )
     > Igor Dos Santos Montagner, **Rafael Corsi Ferrão**, Andrew Toshi, Mariana Silva, Craig Zilles
 
 - **2024 EduLearn, Palma** - (Abstract) Helping students to start a project ( [Slides](https://raw.githubusercontent.com/rafaelcorsi/paper-data/main/24a-edulearn-palma-rafael-ferrao.pdf) )
@@ -62,10 +64,9 @@ My contributions are specifically aimed at:
 - **FIE 2019** - Teaching C programming in context
     > Igor Dos Santos Montagner, **Rafael Corsi Ferrão**, E. Marossi, F. J. Ayres
 
- 
-## Miscellaneous (technical)
+### Mauá 
 
-Most from the time that I worked at the NSEE laboratory at [Maua](https://maua.br) were I was developing an [EGSE for the ESA Plato](https://plato-project.iaa.es/node/17) project and working with aerospace electronics systems.
+The following papers are from the time I worked at the NSEE laboratory at [Maua](https://maua.br), where I was developing an [EGSE for the ESA Plato](https://plato-project.iaa.es/node/17) project and working with aerospace electronics systems.
 
 - **2017 IEEE Aerospace Conference, Big Sky** - Data processing unit using COTS micro-controllers working in redundancy
     > V. C. Parro, F. A. Martins, **Rafael Corsi Ferrão**, Sergio Ribeiro Augusto, L. Pinheiro da Silva
