@@ -35,10 +35,13 @@ My contributions are specifically aimed at:
 ### Insper
 
 - **2024 SIGCSE Virtual** - (Abstract) (Accpeted) LLM-based Individual Contribution Summarization in Software Projects
-  
+      >  Fábio Roberto de Miranda, Diego Pavan Soler,  **Rafael Corsi Ferrão**
+
 - **2024 SIGCSE Virtual** -  (Abstract) (Accpeted) Micro-Specialization As Solution To Open-Ended Project
+    >  **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, Mariana Silva, Craig Zilles, Rodolfo Azevedo
 
 - **2024 FIE, Washington DC** - (Accpeted) Cost-Effective Clusters in Education: A Model for Practical HPC Learning
+   > Tiago A. O. Demay, Lícia S. C. Lima, Michel S. Fornaciali, André Filipe M. Batista, **Rafael Corsi** 
 
 - **2024 ITSC, Edmonton** - (Accepted) Machine Learning Models for Intrusion Detection in Unmanned Aerial Vehicles: An Approach to Cybersecurity and Operational Safety
     > Tiago Demay, **Rafael Corsi**, Paulo Sérgio Cugnasca
