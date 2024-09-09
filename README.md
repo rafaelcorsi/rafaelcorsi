@@ -58,13 +58,13 @@ My contributions are specifically aimed at:
 - **2024 EduLearn, Palma** - (Abstract) Helping students to start a project ( [Slides](https://raw.githubusercontent.com/rafaelcorsi/paper-data/main/24a-edulearn-palma-rafael-ferrao.pdf) )
     > **Rafael Corsi Ferrão**, Mariana Silva, Rodolfo Azevedo
   
--  **2023 FIE, Texas** - Moving Beyond VHDL in Introductory Computer Architecture Courses
+-  **2023 FIE, Texas** - Moving Beyond VHDL in Introductory Computer Architecture Courses ([Paper](https://ieeexplore.ieee.org/document/10342910/)
     > **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, Renan Trevisoli
 
--  **FIE 2022, Uppsala** - How much C can students learn in one week?
+-  **FIE 2022, Uppsala** - How much C can students learn in one week? ([Paper](https://ieeexplore.ieee.org/document/9962662/))
    > **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, Ricardo Caceffo, Rodolfo Azevedo
 
-- **FIE 2019** - Teaching C programming in context
+- **FIE 2019** - Teaching C programming in context: a joint effort between the Computer Systems, Embedded Computing and Programming Challenges courses. ([Paper](https://ieeexplore.ieee.org/document/9028687/))
     > Igor Dos Santos Montagner, **Rafael Corsi Ferrão**, E. Marossi, F. J. Ayres
 
 ### Mauá 
