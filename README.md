@@ -20,7 +20,6 @@ My current research focuses on the area of CsED. We are collaborating on a proje
 The objectives of our project are:
 
 - To apply existing research on immediate feedback and frequent testing within the Insper educational context.
-- To develop innovative adaptations of these strategies for project-based courses.
 
 My contributions are specifically aimed at:
 
@@ -28,31 +27,36 @@ My contributions are specifically aimed at:
 - **Code Quality:** Developing a specialized static analysis tool tailored for embedded systems.
 - **Continuous Feedback on Code Quality:** Examining how students respond to ongoing feedback regarding code quality.
 - **Continuous Feedback in Open Projects:** Exploring methods to provide continuous feedback in the context of open-ended projects.
-- **Course Restructuring:** Revising the structure of an embedded systems course to incorporate micro-specializations.
 
 ## Publications
 
 ### Insper
 
+- ⭐ **Exploring Different Specifications Grading Policies** - (Accpeted) (SIGCSE)
+  > Igor Dos Santos Montagner, **Rafael Corsi Ferrão**, Craig Zilles, Mariana Silva
+
+- **2024 Koli Calling** - (Accpeted) (Doctoral Consortium) Teaching Code Quality In Embedded Systems
+  > **Rafael Corsi Ferrão**
+
 - **2024 SIGCSE Virtual** - (Abstract) (Accpeted) LLM-based Individual Contribution Summarization in Software Projects
-      >  Fábio Roberto de Miranda, Diego Pavan Soler,  **Rafael Corsi Ferrão**
+  >  Fábio Roberto de Miranda, Diego Pavan Soler, **Rafael Corsi Ferrão**
 
 - **2024 SIGCSE Virtual** -  (Abstract) (Accpeted) Micro-Specialization As Solution To Open-Ended Project
     >  **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, Mariana Silva, Craig Zilles, Rodolfo Azevedo
 
-- **2024 FIE, Washington DC** - (Accpeted) Cost-Effective Clusters in Education: A Model for Practical HPC Learning
+- **2024 FIE, Washington DC** - Cost-Effective Clusters in Education: A Model for Practical HPC Learning
    > Tiago A. O. Demay, Lícia S. C. Lima, Michel S. Fornaciali, André Filipe M. Batista, **Rafael Corsi** 
 
-- **2024 ITSC, Edmonton** - (Accepted) Machine Learning Models for Intrusion Detection in Unmanned Aerial Vehicles: An Approach to Cybersecurity and Operational Safety
+- **2024 ITSC, Edmonton** - Machine Learning Models for Intrusion Detection in Unmanned Aerial Vehicles: An Approach to Cybersecurity and Operational Safety
     > Tiago Demay, **Rafael Corsi**, Paulo Sérgio Cugnasca
   
-- **2024 ITiCSE, Milan** - Embedded-Check: A Code Quality Tool for Automatic Firmware Verification ( [Paper](https://dl-acm-org.proxy2.library.illinois.edu/doi/10.1145/3649217.3653577) / [Slides](https://raw.githubusercontent.com/rafaelcorsi/paper-data/main/24a-iticse-embedded-check-presentation.pdf) )
+- ⭐ **2024 ITiCSE, Milan** - Embedded-Check: A Code Quality Tool for Automatic Firmware Verification ( [Paper](https://dl-acm-org.proxy2.library.illinois.edu/doi/10.1145/3649217.3653577) / [Slides](https://raw.githubusercontent.com/rafaelcorsi/paper-data/main/24a-iticse-embedded-check-presentation.pdf) )
     >  **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, Mariana Silva, Craig Zilles, Rodolfo Azevedo
 
 - **2024 ITiCSE, Milan** - (Abstract) Learn by example in a modern embedded system course ( [Paper](https://dl.acm.org/doi/10.1145/3649405.3659522) / [Slides](https://raw.githubusercontent.com/rafaelcorsi/paper-data/main/24a-iticse-tips-presentation.pdf) )
     >  **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, Rodolfo Azevedo
 
-- **2024 SIGCSE, Portland** - Adapting immediate feedback and frequent testing to project-based courses ( [Paper](https://dl.acm.org/doi/abs/10.1145/3626252.3630841) / [Slides](https://igordsm.github.io/paper-no-sigcse-2024/) )
+- ⭐ **2024 SIGCSE, Portland** - Adapting immediate feedback and frequent testing to project-based courses ( [Paper](https://dl.acm.org/doi/abs/10.1145/3626252.3630841) / [Slides](https://igordsm.github.io/paper-no-sigcse-2024/) )
     > Igor Dos Santos Montagner, **Rafael Corsi Ferrão**, Andrew Toshi, Mariana Silva, Craig Zilles
 
 - **2024 EduLearn, Palma** - (Abstract) Helping students to start a project ( [Slides](https://raw.githubusercontent.com/rafaelcorsi/paper-data/main/24a-edulearn-palma-rafael-ferrao.pdf) )
