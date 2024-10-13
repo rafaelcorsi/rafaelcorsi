@@ -32,10 +32,10 @@ My contributions are specifically aimed at:
 
 ### Insper
 
-- ⭐ **Exploring Different Specifications Grading Policies** - (Accpeted) (SIGCSE)
+- ⭐ **2025 Exploring Different Specifications Grading Policies** - (Accpeted) (SIGCSE)
   > Igor Dos Santos Montagner, **Rafael Corsi Ferrão**, Craig Zilles, Mariana Silva
 
-- **2024 Koli Calling** - (Accpeted) (Doctoral Consortium) Teaching Code Quality In Embedded Systems
+- **2024 Koli Calling, Joensuu** - (Accpeted) (Doctoral Consortium) Teaching Code Quality In Embedded Systems
   > **Rafael Corsi Ferrão**
 
 - **2024 SIGCSE Virtual** - (Abstract) (Accpeted) LLM-based Individual Contribution Summarization in Software Projects
