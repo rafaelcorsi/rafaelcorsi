@@ -35,13 +35,13 @@ My contributions are specifically aimed at:
 - ⭐ **2025 Exploring Different Specifications Grading Policies** - (Accpeted) (SIGCSE)
   > Igor Dos Santos Montagner, **Rafael Corsi Ferrão**, Craig Zilles, Mariana Silva
 
-- **2024 Koli Calling, Joensuu** - (Doctoral Consortium) Teaching Code Quality In Embedded Systems ([Abstract](https://dl.acm.org/doi/10.1145/3699538.3699579)
+- **2024 Koli Calling, Joensuu** - (Doctoral Consortium) Teaching Code Quality In Embedded Systems ( [Abstract](https://dl.acm.org/doi/10.1145/3699538.3699579) )
   > **Rafael Corsi Ferrão**
 
-- **2024 SIGCSE Virtual** - (Abstract) LLM-based Individual Contribution Summarization in Software Projects ([Abstract](https://dl.acm.org/doi/abs/10.1145/3649409.3691092))
+- **2024 SIGCSE Virtual** - (Abstract) LLM-based Individual Contribution Summarization in Software Projects ( [Abstract](https://dl.acm.org/doi/abs/10.1145/3649409.3691092) )
   >  Fábio Roberto de Miranda, Diego Pavan Soler, **Rafael Corsi Ferrão**
 
-- **2024 SIGCSE Virtual** -  (Abstract) (Accpeted) Micro-Specialization As Solution To Open-Ended Project ([Abstract](https://dl.acm.org/doi/abs/10.1145/3649409.3691077))
+- **2024 SIGCSE Virtual** -  (Abstract) (Accpeted) Micro-Specialization As Solution To Open-Ended Project ( [Abstract](https://dl.acm.org/doi/abs/10.1145/3649409.3691077) )
     >  **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, Mariana Silva, Craig Zilles, Rodolfo Azevedo
 
 - **2024 FIE, Washington DC** - Cost-Effective Clusters in Education: A Model for Practical HPC Learning 
@@ -62,13 +62,13 @@ My contributions are specifically aimed at:
 - **2024 EduLearn, Palma** - (Abstract) Helping students to start a project ( [Slides](https://raw.githubusercontent.com/rafaelcorsi/paper-data/main/24a-edulearn-palma-rafael-ferrao.pdf) )
     > **Rafael Corsi Ferrão**, Mariana Silva, Rodolfo Azevedo
   
--  **2023 FIE, Texas** - Moving Beyond VHDL in Introductory Computer Architecture Courses ([Paper](https://ieeexplore.ieee.org/document/10342910/)
+-  **2023 FIE, Texas** - Moving Beyond VHDL in Introductory Computer Architecture Courses ( [Paper](https://ieeexplore.ieee.org/document/10342910/) )
     > **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, Renan Trevisoli
 
--  **FIE 2022, Uppsala** - How much C can students learn in one week? ([Paper](https://ieeexplore.ieee.org/document/9962662/))
+-  **FIE 2022, Uppsala** - How much C can students learn in one week? ( [Paper](https://ieeexplore.ieee.org/document/9962662/) )
    > **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, Ricardo Caceffo, Rodolfo Azevedo
 
-- **FIE 2019** - Teaching C programming in context: a joint effort between the Computer Systems, Embedded Computing and Programming Challenges courses. ([Paper](https://ieeexplore.ieee.org/document/9028687/))
+- **FIE 2019** - Teaching C programming in context: a joint effort between the Computer Systems, Embedded Computing and Programming Challenges courses. ( [Paper](https://ieeexplore.ieee.org/document/9028687/) )
     > Igor Dos Santos Montagner, **Rafael Corsi Ferrão**, E. Marossi, F. J. Ayres
 
 ### Mauá 
