@@ -65,10 +65,10 @@ My contributions are specifically aimed at:
 -  **2023 FIE, Texas** - Moving Beyond VHDL in Introductory Computer Architecture Courses ( [Paper](https://ieeexplore.ieee.org/document/10342910/) )
     > **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, Renan Trevisoli
 
--  **FIE 2022, Uppsala** - How much C can students learn in one week? ( [Paper](https://ieeexplore.ieee.org/document/9962662/) )
+-  **2022 FIE, Uppsala** - How much C can students learn in one week? ( [Paper](https://ieeexplore.ieee.org/document/9962662/) )
    > **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, Ricardo Caceffo, Rodolfo Azevedo
 
-- **FIE 2019** - Teaching C programming in context: a joint effort between the Computer Systems, Embedded Computing and Programming Challenges courses. ( [Paper](https://ieeexplore.ieee.org/document/9028687/) )
+- **2019 FIE** - Teaching C programming in context: a joint effort between the Computer Systems, Embedded Computing and Programming Challenges courses. ( [Paper](https://ieeexplore.ieee.org/document/9028687/) )
     > Igor Dos Santos Montagner, **Rafael Corsi Ferrão**, E. Marossi, F. J. Ayres
 
 ### Mauá 
