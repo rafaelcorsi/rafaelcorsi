@@ -32,7 +32,7 @@ My contributions are specifically aimed at:
 
 ### Insper
 
-- ⭐ **2025 Exploring Different Specifications Grading Policies** - (Accpeted) (SIGCSE)
+- ⭐ **2025 SIGCSE, Pittsburgh** - Exploring Different Specifications Grading Policies ( [Paper](https://dl.acm.org/doi/10.1145/3641554.3701925) )
   > Igor Dos Santos Montagner, **Rafael Corsi Ferrão**, Craig Zilles, Mariana Silva
 
 - **2024 Koli Calling, Joensuu** - (Doctoral Consortium) Teaching Code Quality In Embedded Systems ( [Abstract](https://dl.acm.org/doi/10.1145/3699538.3699579) )
