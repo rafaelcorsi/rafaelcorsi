@@ -28,9 +28,10 @@ My contributions are specifically aimed at:
 - **Continuous Feedback on Code Quality:** Examining how students respond to ongoing feedback regarding code quality.
 - **Continuous Feedback in Open Projects:** Exploring methods to provide continuous feedback in the context of open-ended projects.
 
-## Publications
+## Publications 
 
-### Insper
+- **2025, pre-print** - Exploring Code Quality in Embedded Systems Education ( [Paper](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.174119287.73656479/v1) )
+  >  **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, Mariana Silva, Craig Zilles, Rodolfo Azevedo
 
 - ⭐ **2025 SIGCSE, Pittsburgh** - Exploring Different Specifications Grading Policies ( [Paper](https://dl.acm.org/doi/10.1145/3641554.3701925) )
   > Igor Dos Santos Montagner, **Rafael Corsi Ferrão**, Craig Zilles, Mariana Silva
