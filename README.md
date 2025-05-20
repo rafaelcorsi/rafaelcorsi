@@ -30,6 +30,12 @@ My contributions are specifically aimed at:
 
 ## Publications 
 
+- **2025, FIE, Nashville** - (accepted, pre-print) Who Introduces and Who Fixes? Analyzing Code Quality in Collaborative Student's Projects ( [Paper]() )
+  >  **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, Rodolfo Azevedo
+
+- **2025, FIE, Nashville** - (accepted, pre-print) LLM Contribution Summarization in Software Projects ( [Paper]() )
+  >  **Rafael Corsi Ferrão**, Fábio Roberto de Miranda, Diego Pavan Soler
+
 - **2025, pre-print** - Exploring Code Quality in Embedded Systems Education ( [Paper](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.174119287.73656479/v1) )
   >  **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, Mariana Silva, Craig Zilles, Rodolfo Azevedo
 
