@@ -48,13 +48,13 @@ My contributions are specifically aimed at:
 - **2024 SIGCSE Virtual** - (Abstract) LLM-based Individual Contribution Summarization in Software Projects ( [Abstract](https://dl.acm.org/doi/abs/10.1145/3649409.3691092) )
   >  Fábio Roberto de Miranda, Diego Pavan Soler, **Rafael Corsi Ferrão**
 
-- **2024 SIGCSE Virtual** -  (Abstract) (Accpeted) Micro-Specialization As Solution To Open-Ended Project ( [Abstract](https://dl.acm.org/doi/abs/10.1145/3649409.3691077) )
+- **2024 SIGCSE Virtual** -  (Abstract) Micro-Specialization As Solution To Open-Ended Project ( [Abstract](https://dl.acm.org/doi/abs/10.1145/3649409.3691077) )
     >  **Rafael Corsi Ferrão**, Igor Dos Santos Montagner, Mariana Silva, Craig Zilles, Rodolfo Azevedo
 
-- **2024 FIE, Washington DC** - Cost-Effective Clusters in Education: A Model for Practical HPC Learning 
+- **2024 FIE, Washington DC** - Cost-Effective Clusters in Education: A Model for Practical HPC Learning ( [Paper](https://ieeexplore.ieee.org/abstract/document/10892965/) )
    > Tiago A. O. Demay, Lícia S. C. Lima, Michel S. Fornaciali, André Filipe M. Batista, **Rafael Corsi** 
 
-- **2024 ITSC, Edmonton** - Machine Learning Models for Intrusion Detection in Unmanned Aerial Vehicles: An Approach to Cybersecurity and Operational Safety
+- **2024 ITSC, Edmonton** - Machine Learning Models for Intrusion Detection in Unmanned Aerial Vehicles: An Approach to Cybersecurity and Operational Safety ( [Paper](https://ieeexplore.ieee.org/document/10920019/) )
     > Tiago Demay, **Rafael Corsi**, Paulo Sérgio Cugnasca
   
 - ⭐ **2024 ITiCSE, Milan** - Embedded-Check: A Code Quality Tool for Automatic Firmware Verification ( [Paper](https://dl.acm.org/doi/abs/10.1145/3649217.3653577) / [Slides](https://raw.githubusercontent.com/rafaelcorsi/paper-data/main/24a-iticse-embedded-check-presentation.pdf) )
