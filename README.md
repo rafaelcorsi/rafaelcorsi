@@ -40,7 +40,7 @@ My contributions are specifically aimed at:
 
 **2025, COBENGE, Campinas** - Capstone as a Lens for Mapping Technological Trends in Industry. `Luciano Soares,  Rafael Corsi Ferrão`
 
-**2025, pre-print** - Exploring Code Quality in Embedded Systems Education ( [Paper - arxiv](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.174119287.73656479/v1) ). `Rafael Corsi Ferrão**, Igor Dos Santos Montagner, Mariana Silva, Craig Zilles, Rodolfo Azevedo`
+**2025, pre-print** - Exploring Code Quality in Embedded Systems Education ( [Paper - arxiv](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.174119287.73656479/v1) ). `Rafael Corsi Ferrão, Igor Dos Santos Montagner, Mariana Silva, Craig Zilles, Rodolfo Azevedo`
 
 ⭐ **2025 SIGCSE, Pittsburgh** - Exploring Different Specifications Grading Policies ( [Paper](https://dl.acm.org/doi/10.1145/3641554.3701925) ). `Igor Dos Santos Montagner, Rafael Corsi Ferrão, Craig Zilles, Mariana Silva`
 
