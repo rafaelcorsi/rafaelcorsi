@@ -30,17 +30,25 @@ My contributions are specifically aimed at:
 
 ## Publications 
 
-⭐ **2025, Koli Calling, Joensuu** - (accepted) Investigating the Impact of Automated Code Quality Feedback in an Embedded Systems Course. `Rafael Corsi Ferrão, Igor Dos Santos Montagner, Rodolfo Azevedo, Mariana Silva, Craig Zilles` 
+**2026 EduComp, Campo Grande** - (accepted) Um Sistema Abrangente de Avaliação para Projetos Capstone / A Comprehensive Evaluation System for Capstone Projects. `Rafael Corsi Ferrão, Luciano Pereira Soares` 
 
-**2025, FIE, Nashville** - Who Introduces and Who Fixes? Analyzing Code Quality in Collaborative Student's Projects ( [Paper - arxiv](https://arxiv.org/pdf/2505.14315) / [Slides](https://github.com/rafaelcorsi/paper-data/blob/main/25b-fie-codequality.pdf) ). `Rafael Corsi Ferrão, Igor Dos Santos Montagner, Rodolfo Azevedo`
+**2026 EduComp, Campo Grande** - (accepted) (panel) Projetos de graduação com empresas  / Undergraduation projects with companies. `Rafael Corsi Ferrão, Luciano Pereira Soares, Afonso Sales, Marcelo Hideki Yamaguti` 
 
-**2025, FIE, Nashville** - LLM Contribution Summarization in Software Projects ( [Paper - arxiv](https://arxiv.org/pdf/2505.17710) / [Slides](https://github.com/rafaelcorsi/paper-data/blob/main/25b-fie-llm-summarization.pdf) ). `Rafael Corsi Ferrão, Fábio Roberto de Miranda, Diego Pavan Soler`
+**2026 Capstone Design Conference, College Station** - (accepted) Student Interest and Performance Predictors in Capstone Project. `Luciano Pereira Soares, Rafael Corsi Ferrão` 
 
-**2025, PAEE-ALE, Porto** - Enhancing Capstone Program Workflow: A Case Study on a Platform for Managing Academic-Industry Projects. `Rafael Corsi Ferrão, Luciano Soares`
+-----------------------
 
-**2025, COBENGE, Campinas** - Capstone as a Lens for Mapping Technological Trends in Industry. `Luciano Soares,  Rafael Corsi Ferrão`
+⭐ **2025 Koli Calling, Joensuu** - Investigating the Impact of Automated Code Quality Feedback in an Embedded Systems Course. `Rafael Corsi Ferrão, Igor Dos Santos Montagner, Rodolfo Azevedo, Mariana Silva, Craig Zilles` ( [Paper](https://dl.acm.org/doi/10.1145/3769994.3770035) / [Slides](https://github.com/rafaelcorsi/paper-data/blob/main/25b-koli-codequality-feedback.pdf) ] 
 
-**2025, pre-print** - Exploring Code Quality in Embedded Systems Education ( [Paper - arxiv](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.174119287.73656479/v1) ). `Rafael Corsi Ferrão, Igor Dos Santos Montagner, Mariana Silva, Craig Zilles, Rodolfo Azevedo`
+**2025 FIE, Nashville** - Who Introduces and Who Fixes? Analyzing Code Quality in Collaborative Student's Projects ( [Paper](https://arxiv.org/pdf/2505.14315) / [Slides](https://github.com/rafaelcorsi/paper-data/blob/main/25b-fie-codequality.pdf) ). `Rafael Corsi Ferrão, Igor Dos Santos Montagner, Rodolfo Azevedo`
+
+**2025 FIE, Nashville** - LLM Contribution Summarization in Software Projects ( [Paper](https://arxiv.org/pdf/2505.17710) / [Slides](https://github.com/rafaelcorsi/paper-data/blob/main/25b-fie-llm-summarization.pdf) ). `Rafael Corsi Ferrão, Fábio Roberto de Miranda, Diego Pavan Soler`
+
+**2025 PAEE-ALE, Porto** - Enhancing Capstone Program Workflow: A Case Study on a Platform for Managing Academic-Industry Projects. `Rafael Corsi Ferrão, Luciano Soares`
+
+**2025 COBENGE, Campinas** - Capstone as a Lens for Mapping Technological Trends in Industry. `Luciano Soares,  Rafael Corsi Ferrão`
+
+**2025 pre-print** - Exploring Code Quality in Embedded Systems Education ( [Paper - arxiv](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.174119287.73656479/v1) ). `Rafael Corsi Ferrão, Igor Dos Santos Montagner, Mariana Silva, Craig Zilles, Rodolfo Azevedo`
 
 ⭐ **2025 SIGCSE, Pittsburgh** - Exploring Different Specifications Grading Policies ( [Paper](https://dl.acm.org/doi/10.1145/3641554.3701925) ). `Igor Dos Santos Montagner, Rafael Corsi Ferrão, Craig Zilles, Mariana Silva`
 
