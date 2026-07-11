@@ -30,21 +30,33 @@ My contributions are specifically aimed at:
 
 ## Publications 
 
-**2026 EduComp, Campo Grande** - (accepted) Um Sistema Abrangente de Avaliação para Projetos Capstone / A Comprehensive Evaluation System for Capstone Projects. `Rafael Corsi Ferrão, Luciano Pereira Soares` 
+**2026 ITiCSE**
+- (TT&T) Using LLM to Autograde Diagrams ( [Paper](doi.acm.org?doi=3803401.3811979) ). `Rafael Corsi Ferrão, Igor dos Santos Montagner, Mariana Silva, Craig Zilles`
+- (DC) Code Quality Catalog for Embedded-Systems (Doctoral Consortium). `Rafael Corsi Ferrão`
 
-**2026 EduComp, Campo Grande** - (accepted) (panel) Projetos de graduação com empresas  / Undergraduation projects with companies. `Rafael Corsi Ferrão, Luciano Pereira Soares, Afonso Sales, Marcelo Hideki Yamaguti` 
+**2026 FIE** 
+- (accepted) Supporting Abstraction in RTOS Education Through System Diagramming. `Rafael Corsi Ferrão, Mariana Silva`
+- (accepted) The Influence of Personal Student Interest on Capstone Project Outcomes. `Rafael Corsi Ferrão, Cassia de Oliveira Fernandez, Luciano Pereira Soares`
+- (accepted) Analyzing Code Quality Issues and Their Relation with Code Writing Ability in CS1. `Isabela Vieira Rodrigues, Rafael Corsi Ferrão, Igor dos Santos Montagner`
+- (accepted) (WIP) Quantifying the Relationship Between Team Dysfunctions and Performance in Capstone Projects. `Luciano Pereira Soares,  Luciana Campos Lima, Rafael Corsi Ferrão`
 
-**2026 Capstone Design Conference, College Station** - (accepted) Student Interest and Performance Predictors in Capstone Project. `Luciano Pereira Soares, Rafael Corsi Ferrão` 
+**2026 PAEE/ALE, Tokio** - Effects of Deadline Enforcement Policies in a Multidisciplinary Engineering Capstone Program. `Luciano Pereira Soares, Rafael Corsi Ferrão` 
+
+**2026 Capstone Design Conference, College Station** - Student Interest and Performance Predictors in Capstone Project. `Luciano Pereira Soares, Rafael Corsi Ferrão` 
+
+**2026 EduComp, Campo Grande** 
+- Um Sistema Abrangente de Avaliação para Projetos Capstone / A Comprehensive Evaluation System for Capstone Projects. `Rafael Corsi Ferrão, Luciano Pereira Soares` 
+- (panel) Projetos de graduação com empresas  / Undergraduation projects with companies. `Rafael Corsi Ferrão, Luciano Pereira Soares, Afonso Sales, Marcelo Hideki Yamaguti` 
 
 -----------------------
 
 ⭐ **2025 Koli Calling, Joensuu** - Investigating the Impact of Automated Code Quality Feedback in an Embedded Systems Course. `Rafael Corsi Ferrão, Igor Dos Santos Montagner, Rodolfo Azevedo, Mariana Silva, Craig Zilles` ( [Paper](https://dl.acm.org/doi/10.1145/3769994.3770035) / [Slides](https://github.com/rafaelcorsi/paper-data/blob/main/25b-koli-codequality-feedback.pdf) ] 
 
-**2025 FIE, Nashville** - Who Introduces and Who Fixes? Analyzing Code Quality in Collaborative Student's Projects ( [Paper](https://arxiv.org/pdf/2505.14315) / [Slides](https://github.com/rafaelcorsi/paper-data/blob/main/25b-fie-codequality.pdf) ). `Rafael Corsi Ferrão, Igor Dos Santos Montagner, Rodolfo Azevedo`
+**2025 FIE, Nashville** 
+- Who Introduces and Who Fixes? Analyzing Code Quality in Collaborative Student's Projects ( [Paper](https://arxiv.org/pdf/2505.14315) / [Slides](https://github.com/rafaelcorsi/paper-data/blob/main/25b-fie-codequality.pdf) ). `Rafael Corsi Ferrão, Igor Dos Santos Montagner, Rodolfo Azevedo`
+- LLM Contribution Summarization in Software Projects ( [Paper](https://arxiv.org/pdf/2505.17710) / [Slides](https://github.com/rafaelcorsi/paper-data/blob/main/25b-fie-llm-summarization.pdf) ). `Rafael Corsi Ferrão, Fábio Roberto de Miranda, Diego Pavan Soler`
 
-**2025 FIE, Nashville** - LLM Contribution Summarization in Software Projects ( [Paper](https://arxiv.org/pdf/2505.17710) / [Slides](https://github.com/rafaelcorsi/paper-data/blob/main/25b-fie-llm-summarization.pdf) ). `Rafael Corsi Ferrão, Fábio Roberto de Miranda, Diego Pavan Soler`
-
-**2025 PAEE-ALE, Porto** - Enhancing Capstone Program Workflow: A Case Study on a Platform for Managing Academic-Industry Projects. `Rafael Corsi Ferrão, Luciano Soares`
+**2025 PAEE/ALE, Porto** - Enhancing Capstone Program Workflow: A Case Study on a Platform for Managing Academic-Industry Projects. `Rafael Corsi Ferrão, Luciano Soares`
 
 **2025 COBENGE, Campinas** - Capstone as a Lens for Mapping Technological Trends in Industry. `Luciano Soares,  Rafael Corsi Ferrão`
 
@@ -64,10 +76,10 @@ My contributions are specifically aimed at:
 
 **2024 ITSC, Edmonton** - Machine Learning Models for Intrusion Detection in Unmanned Aerial Vehicles: An Approach to Cybersecurity and Operational Safety ( [Paper](https://ieeexplore.ieee.org/document/10920019/) ). `Tiago Demay, Rafael Corsi, Paulo Sérgio Cugnasca`
  
-⭐ **2024 ITiCSE, Milan** - Embedded-Check: A Code Quality Tool for Automatic Firmware Verification ( [Paper](https://dl.acm.org/doi/abs/10.1145/3649217.3653577) / [Slides](https://raw.githubusercontent.com/rafaelcorsi/paper-data/main/24a-iticse-embedded-check-presentation.pdf) ).
+**2024 ITiCSE, Milan** 
+- ⭐ Embedded-Check: A Code Quality Tool for Automatic Firmware Verification ( [Paper](https://dl.acm.org/doi/abs/10.1145/3649217.3653577) / [Slides](https://raw.githubusercontent.com/rafaelcorsi/paper-data/main/24a-iticse-embedded-check-presentation.pdf) ).
   `Rafael Corsi Ferrão, Igor Dos Santos Montagner, Mariana Silva, Craig Zilles, Rodolfo Azevedo`
-
-**2024 ITiCSE, Milan** - (Abstract) Learn by example in a modern embedded system course ( [Abstract](https://dl.acm.org/doi/10.1145/3649405.3659522) / [Slides](https://raw.githubusercontent.com/rafaelcorsi/paper-data/main/24a-iticse-tips-presentation.pdf) ).
+- (Abstract) Learn by example in a modern embedded system course ( [Abstract](https://dl.acm.org/doi/10.1145/3649405.3659522) / [Slides](https://raw.githubusercontent.com/rafaelcorsi/paper-data/main/24a-iticse-tips-presentation.pdf) ).
   `Rafael Corsi Ferrão, Igor Dos Santos Montagner, Rodolfo Azevedo`
 
 ⭐ **2024 SIGCSE, Portland** - Adapting immediate feedback and frequent testing to project-based courses ( [Paper](https://dl.acm.org/doi/abs/10.1145/3626252.3630841) / [Slides](https://igordsm.github.io/paper-no-sigcse-2024/) ).
