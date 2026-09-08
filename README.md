@@ -30,6 +30,8 @@ My contributions are specifically aimed at:
 
 ## Publications 
 
+(accepted) **2026 Journal of Integrated Circuits and Systems (JICS)** Bridging the Gap Between Pedagogical and Practical RISC-V Systems: A Reproducible FPGA Implementation and Verification Flow. `Ilana Chaia Finger, Leonardo Merlin Paloschi, Lucas Fernando de Souza Lima, Pedro Pereira Cecilio Ventura, Wellington Romeiro de Melo, Luís Eduardo Seixas Junior, Antonio Carlos da Costa Telles, Vinicius Vono Peruzzi, Saulo Finco, Rafael Corsi Ferrão`
+
 **2026 ITiCSE**
 - (TT&T) Using LLM to Autograde Diagrams ( [Paper](doi.acm.org?doi=3803401.3811979) ). `Rafael Corsi Ferrão, Igor dos Santos Montagner, Mariana Silva, Craig Zilles`
 - (DC) Code Quality Catalog for Embedded-Systems (Doctoral Consortium). `Rafael Corsi Ferrão`
@@ -38,8 +40,9 @@ My contributions are specifically aimed at:
 - (accepted) Supporting Abstraction in RTOS Education Through System Diagramming. `Rafael Corsi Ferrão, Mariana Silva`
 - (accepted) The Influence of Personal Student Interest on Capstone Project Outcomes. `Rafael Corsi Ferrão, Cassia de Oliveira Fernandez, Luciano Pereira Soares`
 - (accepted) Analyzing Code Quality Issues and Their Relation with Code Writing Ability in CS1. `Isabela Vieira Rodrigues, Rafael Corsi Ferrão, Igor dos Santos Montagner`
+<!--
 - (accepted) (WIP) Quantifying the Relationship Between Team Dysfunctions and Performance in Capstone Projects. `Luciano Pereira Soares,  Luciana Campos Lima, Rafael Corsi Ferrão`
-
+-->
 **2026 PAEE/ALE, Tokio** - Effects of Deadline Enforcement Policies in a Multidisciplinary Engineering Capstone Program. `Luciano Pereira Soares, Rafael Corsi Ferrão` 
 
 **2026 Capstone Design Conference, College Station** - Student Interest and Performance Predictors in Capstone Project. `Luciano Pereira Soares, Rafael Corsi Ferrão` 
